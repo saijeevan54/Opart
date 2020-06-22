@@ -1,0 +1,7 @@
+{
+  "name": "Opart",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
